@@ -20,9 +20,9 @@ struct HobbyView: View {
             Button {
                 favorites.favoriteHobby(hobby.id)
             } label: {
-                if hobby.isFavorite {
-                    Image(systemName: "heart.fill")
-                } else { Image(systemName: "heart") }
+                if favorites.favoriteHobbies[hobby.id] != nil {
+                    Image(systemName: "heart.fill").foregroundColor(.red)
+                } else { Image(systemName: "heart").foregroundColor(.blue) }
             }
         }
     }

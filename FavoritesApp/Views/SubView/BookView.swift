@@ -23,9 +23,9 @@ struct BookView: View {
                 Button {
                     favorites.favoriteBook(book.id)
                 } label: {
-                    if book.isFavorite {
-                        Image(systemName: "heart.fill")
-                    } else { Image(systemName: "heart") }
+                    if favorites.favoriteBooks[book.id] != nil {
+                        Image(systemName: "heart.fill").foregroundColor(.red)
+                    } else { Image(systemName: "heart").foregroundColor(.blue) }
                 }
             }
         }
