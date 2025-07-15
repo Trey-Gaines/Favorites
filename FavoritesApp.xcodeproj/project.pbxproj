@@ -6,6 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2D6E27582E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D6E27562E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.43.png */; };
+		2D6E27592E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.39.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D6E27542E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.39.png */; };
+		2D6E275A2E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.41.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D6E27552E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.41.png */; };
+		2D6E275B2E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D6E27572E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.54.png */; };
+		2D6E275D2E25F2D30045B4E0 /* simulator_screenshot_58E4E96B-8EDE-4D11-908C-3A9AE0A00EFC.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D6E275C2E25F2D30045B4E0 /* simulator_screenshot_58E4E96B-8EDE-4D11-908C-3A9AE0A00EFC.png */; };
+		2D6E275F2E25F2E40045B4E0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2D6E275E2E25F2DF0045B4E0 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		2D6E271B2E25AD9A0045B4E0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +36,12 @@
 		2D6E270C2E25AD9A0045B4E0 /* FavoritesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FavoritesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D6E271A2E25AD9A0045B4E0 /* FavoritesAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FavoritesAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D6E27242E25AD9A0045B4E0 /* FavoritesAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FavoritesAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D6E27542E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.39.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.39.png"; sourceTree = "<group>"; };
+		2D6E27552E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.41.png"; sourceTree = "<group>"; };
+		2D6E27562E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.43.png"; sourceTree = "<group>"; };
+		2D6E27572E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.54.png"; sourceTree = "<group>"; };
+		2D6E275C2E25F2D30045B4E0 /* simulator_screenshot_58E4E96B-8EDE-4D11-908C-3A9AE0A00EFC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "simulator_screenshot_58E4E96B-8EDE-4D11-908C-3A9AE0A00EFC.png"; sourceTree = "<group>"; };
+		2D6E275E2E25F2DF0045B4E0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -67,6 +82,12 @@
 			children = (
 				2D6E270E2E25AD9A0045B4E0 /* FavoritesApp */,
 				2D6E270D2E25AD9A0045B4E0 /* Products */,
+				2D6E27542E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.39.png */,
+				2D6E275E2E25F2DF0045B4E0 /* README.md */,
+				2D6E27552E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.41.png */,
+				2D6E27562E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.43.png */,
+				2D6E27572E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.54.png */,
+				2D6E275C2E25F2D30045B4E0 /* simulator_screenshot_58E4E96B-8EDE-4D11-908C-3A9AE0A00EFC.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -194,6 +215,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D6E27582E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.43.png in Resources */,
+				2D6E275D2E25F2D30045B4E0 /* simulator_screenshot_58E4E96B-8EDE-4D11-908C-3A9AE0A00EFC.png in Resources */,
+				2D6E275F2E25F2E40045B4E0 /* README.md in Resources */,
+				2D6E27592E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.39.png in Resources */,
+				2D6E275A2E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.41.png in Resources */,
+				2D6E275B2E25F29B0045B4E0 /* Simulator Screenshot - iPhone 16 Pro - 2025-07-14 at 22.20.54.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
